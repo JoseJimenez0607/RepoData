@@ -22,7 +22,7 @@
   "eventos": [
     {
       "idEvento": 101,
-      "imagen": "https://i.ibb.co/Th2c8W7/hackathon2.jpg",
+      "imagen": "https://i.postimg.cc/LXMXkydf/hackathon2.jpg",
       "nombreEvento": "Charla de Ciberseguridad",
       "fecha": "2024-11-15",
       "lugar": "Auditorio A",
@@ -32,7 +32,7 @@
     },
     {
       "idEvento": 102,
-      "imagen": "https://i.ibb.co/BfMX948/escuela-it.jpg",
+      "imagen": "https://i.postimg.cc/0jkyFbyy/maxresdefault.jpg",
       "nombreEvento": "Taller de Desarrollo Web",
       "fecha": "2024-11-22",
       "lugar": "Sala B",
@@ -42,7 +42,7 @@
     },
     {
       "idEvento": 103,
-      "imagen": "https://i.ibb.co/QnnCw3K/hq720.jpg",
+      "imagen": "https://i.postimg.cc/yxL8HsDX/3-YPIDZ2-NURDJJDZKXYB2-DNE65-A.avif",
       "nombreEvento": "Conferencia de Inteligencia Artificial",
       "fecha": "2024-12-05",
       "lugar": "Auditorio C",
@@ -52,7 +52,7 @@
     },
     {
       "idEvento": 104,
-      "imagen": "https://i.ibb.co/zxB81mc/IMG-3228-1-1-1.jpg",
+      "imagen": "https://i.postimg.cc/ZRZbvC3x/Afiche-oficial-1.png",
       "nombreEvento": "Expo Autos",
       "fecha": "2024-10-19",
       "lugar": "Patio Central",
@@ -62,7 +62,7 @@
     },
     {
       "idEvento": 104,
-      "imagen": "https://i.ibb.co/YQ5jmf8/header-portafolio-night-1024x578.jpg",
+      "imagen": "https://i.postimg.cc/4d5J6sQk/header-portafolio-night-1024x578.jpg",
       "nombreEvento": "Portfolio Night 2024",
       "fecha": "2024-10-04",
       "lugar": "Patio Central",
